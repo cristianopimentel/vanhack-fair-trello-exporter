@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/vanhack-fair-trello-exporter/v15
+/obj/Debug
+/bin/Debug
