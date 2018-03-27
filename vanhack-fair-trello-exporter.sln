@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fair", "fair.csproj", "{3CA70AAD-2508-4A7F-83C6-04FE5ADC8E4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vanhack-fair-trello-exporter", "vanhack-fair-trello-exporter.csproj", "{3CA70AAD-2508-4A7F-83C6-04FE5ADC8E4C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
