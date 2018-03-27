@@ -1,0 +1,7 @@
+C:\Users\cpimentel\source\repos\fair\bin\Debug\fair.exe.config
+C:\Users\cpimentel\source\repos\fair\bin\Debug\fair.exe
+C:\Users\cpimentel\source\repos\fair\bin\Debug\fair.pdb
+C:\Users\cpimentel\source\repos\fair\obj\Debug\fair.csprojResolveAssemblyReference.cache
+C:\Users\cpimentel\source\repos\fair\obj\Debug\fair.csproj.CoreCompileInputs.cache
+C:\Users\cpimentel\source\repos\fair\obj\Debug\fair.exe
+C:\Users\cpimentel\source\repos\fair\obj\Debug\fair.pdb
